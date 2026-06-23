@@ -2,7 +2,7 @@
 
 🎓 B-TECH CSE student | 🔐 Cloud Computing Enthusiast | 🤖 AI Learner | 🧩 Competitive Programmer  
 ---
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Passionate+Developer%5Cn%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.1)](https://github.com/lakshya-net)
+[![Typing SVG](https://typingsvg.vercel.app/?lines=Welcome+to+my+profile!;Passionate+Developer;Cloud+Computing+Enthusiast&font=Fira+Code)](https://github.com/lakshya-net)
 ---
 
 ## 🚀 About Me
