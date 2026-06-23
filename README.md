@@ -2,7 +2,7 @@
 
 🎓 B-TECH CSE student | 🔐 Cloud Computing Enthusiast | 🤖 AI Learner | 🧩 Competitive Programmer  
 ---
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Passionate+Developer%5Cn%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.16666666666666666%7D%2C%7B%22text%22%3A%22Cybersecurity+Enthusiast%5Cn%5Cn%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.16666666666666666%7D%2C%7B%22text%22%3A%22AI+Explorer%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.16666666666666666%2C%22fontWeight%22%3A%22300%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Passionate+Developer%5Cn%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.1)](https://github.com/lakshya-net)
 ---
 
 ## 🚀 About Me
@@ -56,6 +56,6 @@
 ---
 
 ## 🌐 Connect With Me
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-garg-160149357/) |
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lakshya-net)  | 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lgarg7112@gmail.com)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-garg-160149357/) |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lakshya-net) | 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lgarg7112@gmail.com)
