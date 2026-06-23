@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **C++, React, AI/ML,Cloud c and cybersecurity defense strategies**  
+- 🌱 Currently learning **C++, React, AI/ML,Cloud computing and cybersecurity defense strategies**  
 - 🔧 Building **secure systems & responsive web apps**  
 - 🤝 Looking to collaborate on **open-source security tools & competitive programming projects**    
 
